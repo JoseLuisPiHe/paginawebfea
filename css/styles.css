@@ -1,0 +1,93 @@
+body {
+  background-color: black;
+  text-align: center;
+  margin: auto;
+  color: rgb(255, 255, 255);
+}
+
+h1,
+h2,
+h3 {
+  font-size: 5.625rem;
+  font-family: "Exo 2", sans-serif;
+  margin-top: 25px;
+  padding-bottom: 10px;
+}
+
+p {
+  font-size: 25px;
+  font-family: "Exo 2", sans-serif;
+  margin-top: 0;
+  text-align: justify;
+  line-height: 2;
+}
+.middle-container {
+  margin: 100px 0;
+}
+p.presentacion {
+  width: 30%;
+  margin: auto;
+}
+
+p.pres {
+  text-align: center;
+}
+
+div.skills {
+  margin: auto;
+}
+
+div.skill-row {
+  height: auto;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  line-height: 2;
+}
+img.foto {
+  width: 50%;
+  float: left;
+}
+hr{
+    border: dotted red 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.btn {
+    -webkit-border-radius: 19;
+    -moz-border-radius: 19;
+    border-radius: 19px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #348cd9;
+    padding: 11px 17px 10px 20px;
+    border: solid #1f628d 0px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #fc3c3c;
+    text-decoration: none;
+  }
+  .bottom-container{
+    background-color: #1f628d;
+    padding: 50px 0 50px;
+  }
+  a{
+    padding: 10px;
+    color: rgb(244, 244, 244);
+    text-decoration: none;
+  }
+  a:hover{
+    color: aqua;
+  }
+  p.tag{
+    margin: auto;
+    font-size: 10px;
+    text-align: center;
+  }
+  
